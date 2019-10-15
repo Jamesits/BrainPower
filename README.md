@@ -1,6 +1,6 @@
 # Brain Power
 
-PCIe to 5.5*2.1mm 12V DC Jack adapter.
+PCI express x1 (full-height, half-width) to 5.5*2.1mm 12V DC Jack adapter.
 
 ## Notes
 
