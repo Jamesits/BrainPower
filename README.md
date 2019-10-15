@@ -17,7 +17,7 @@ The design is based on RB750Gr3, but it should be compatible with the following 
 * hAP AC lite
 * hAP AC^2
 
-## PCI express back panel
+## PCI express I/O Bracket
 
 TBD.
 
