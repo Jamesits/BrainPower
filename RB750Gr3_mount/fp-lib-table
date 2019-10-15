@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SVGs)(type KiCad)(uri ${KIPRJMOD}/SVGs)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+)
