@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.4)
+    (last_trace_width 1)
     (user_trace_width 0.4)
     (user_trace_width 0.5)
     (user_trace_width 0.6)
@@ -1170,7 +1170,7 @@
   (gr_text ^R1 (at 105.664 85.852 90) (layer F.SilkS) (tstamp 5DA7067C)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (gr_text "^R1 & R2" (at 205.486 139.7 90) (layer F.SilkS) (tstamp 5DA7067C)
+  (gr_text "^R1 & R2" (at 205.867 139.7 90) (layer F.SilkS) (tstamp 5DA7067C)
     (effects (font (size 1.5 1.5) (thickness 0.15)) (justify left))
   )
   (gr_text ^R2 (at 188.722 57.658 90) (layer F.SilkS) (tstamp 5DA7067C)
