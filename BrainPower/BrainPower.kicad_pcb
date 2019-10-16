@@ -119,7 +119,7 @@
     (diff_pair_gap 0.25)
   )
 
-  (module Footprints:RB450Gx4 (layer F.Cu) (tedit 5DA6BC54) (tstamp 5DA7044E)
+  (module Footprints:RB450Gx4 (layer F.Cu) (tedit 5DA6BD92) (tstamp 5DA7044E)
     (at 87 53)
     (fp_text reference R2 (at 1.138 1 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -133,7 +133,7 @@
     (fp_text user REF** (at 60.3115 48.05218 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user "RJ45 Ports" (at 18 -2 180) (layer Dwgs.User)
+    (fp_text user "RJ45 Ports" (at 14 -2 180) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user LED (at 120 41 -90) (layer Dwgs.User)
@@ -156,8 +156,8 @@
     (fp_line (start 116 90) (end 123.5 90) (layer F.SilkS) (width 0.12))
     (fp_line (start 117.5 90) (end 117.5 0) (layer F.SilkS) (width 0.12))
     (fp_line (start 116 -4.4) (end 116 0) (layer F.SilkS) (width 0.12))
-    (fp_line (start 40 0) (end 0 0) (layer F.SilkS) (width 0.12))
-    (fp_line (start 0 -4.4) (end 40 -4.4) (layer F.SilkS) (width 0.12))
+    (fp_line (start 27 0) (end 0 0) (layer F.SilkS) (width 0.12))
+    (fp_line (start 0 -4.4) (end 27 -4.4) (layer F.SilkS) (width 0.12))
     (pad 2 thru_hole circle (at 97 4 180) (size 6 6) (drill 3.7) (layers *.Cu *.Mask))
     (pad 1 thru_hole circle (at 4 26 180) (size 6 6) (drill 3.7) (layers *.Cu *.Mask))
     (pad 4 thru_hole circle (at 112 86 180) (size 6 6) (drill 3.7) (layers *.Cu *.Mask))
