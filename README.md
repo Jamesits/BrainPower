@@ -29,7 +29,7 @@ It is compatible with the following MikroTik routers:
 * RB760iGS
 * hAP lite
 * hAP AC lite
-* hAP AC^2
+* hAP AC²
 
 **RB450 Series**
 
