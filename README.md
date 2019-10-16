@@ -11,11 +11,20 @@ PCI express x1 (full-height, half-length) socket to 12V DC adapter.
 
 The design is based on RB750Gr3, but it should be compatible with the following MikroTik routers:
 
+**RB750 Series**
+
 * RB750r1/r2/Gr2/Gr3
 * RB760iGS
 * hAP lite
 * hAP AC lite
 * hAP AC^2
+
+**RB450 Series**
+
+* RB450x2
+* RB450Gx2
+* RB450Gx4
+* RB850Gx2
 
 ## PCI express I/O Bracket
 
