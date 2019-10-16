@@ -47,4 +47,4 @@ TBD.
 ### Notes when ordering PCB
 
 * PCB thickness: 1.6mm
-* 45Â° chamfered border for gold fingers
+* 45° chamfered border for gold fingers
