@@ -21,6 +21,7 @@ The design is based on RB750Gr3, but it should be compatible with the following 
 
 TBD.
 
-## Notes
+## Notes when ordering PCB
 
 * PCB thickness: 1.6mm
+* 45° chamfered border for gold fingers
