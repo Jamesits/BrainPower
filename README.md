@@ -14,7 +14,7 @@ BrainPower enables seamless transition of your legacy network architecture into 
 
 ## Rendered Graphics
 
-Note: this is a rendered version of BrainPower v0.2 beta (https://github.com/Jamesits/BrainPower/commit/1534756f81d0aac4159775ea0ed6522c7cd4834d) and is subject to change. It does not represent the final product.
+Note: this is a rendered version of [BrainPower v0.2 beta](https://github.com/Jamesits/BrainPower/commit/1534756f81d0aac4159775ea0ed6522c7cd4834d) and is subject to change. It does not represent the final product.
 
 ![](misc/rendered_graphics/front.png)
 
