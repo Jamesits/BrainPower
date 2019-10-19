@@ -23,7 +23,7 @@ Note: this is a rendered version of [BrainPower v0.2 beta](https://github.com/Ja
 ### DC powering options
 
 * 5.5*2.1mm Barrel Jack (compatible with the most common unbranded ones)
-* PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm (intended for wire soldering)
+* PhoenixContact MCV1,5_2-G-5.08 (intended for wire soldering)
 
 ### Mounting hole compatibility
 
