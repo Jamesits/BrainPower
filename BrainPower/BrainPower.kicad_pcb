@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 42)
+    (drawings 43)
     (tracks 47)
     (zones 0)
     (modules 10)
@@ -1089,6 +1089,9 @@
     (pad A17 smd rect (at 8.5 0) (size 0.7 4.2) (layers B.Cu B.Paste B.Mask))
   )
 
+  (gr_text "BrainPower Version 0.2\nhttps://github.com/Jamesits/BrainPower" (at 83 67 90) (layer B.SilkS) (tstamp 5DAAA0CE)
+    (effects (font (size 2 2) (thickness 0.25)) (justify left mirror))
+  )
   (dimension 15 (width 0.15) (layer Dwgs.User)
     (gr_text "15.000 mm" (at 80.83 158.9578) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1188,7 +1191,7 @@
   (gr_text "RB750 Series\nhAP lite series\nhAP ac²" (at 97.20326 67.51574) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "BrainPower Version 0.2\nhttps://github.com/Jamesits/BrainPower" (at 81.915 139.065 90) (layer F.SilkS)
+  (gr_text "BrainPower Version 0.2\nhttps://github.com/Jamesits/BrainPower" (at 83 139 90) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.25)) (justify left))
   )
   (gr_text "-  +\nDC 12V\nCenter+" (at 217 119) (layer F.SilkS)
