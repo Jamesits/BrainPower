@@ -59,7 +59,7 @@ For development version, you can use the open-source [KiCAD](http://www.kicad-pc
 
 ### Assembling
 
-Mounting holes for the router are ⌀3.7mm holes. Mount the router on the front (B) side of the PCB (the side with the "KICK" characters) to comply with PCI express standard; mounting backwards also works with some caveats.
+Mounting holes for the router are ⌀3.7mm holes, you can use M3 hexagonal column and screws. Mount the router on the front (B) side of the PCB (the side with the "KICK" characters) to comply with PCI express standard; mounting backwards also works with some caveats (reads: we never tested it).
 
 The PCI express I/O bracket mounting holes is of the same size and position as in [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285).
 
