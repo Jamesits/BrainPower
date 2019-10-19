@@ -4,11 +4,11 @@ PCI express x1 (full-height, half-length) socket to 12V DC adapter with MikroTik
 
 ## Shit Advertisement
 
+BrainPower adds true **hardware level NFV functionality** for your private cloud (or *servers* as we call it 20 years ago), making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
+
 BrainPower brings the only **hardware-level network redundancy option** on the market for single server deployment as long as your enclosure is large enough. 
 
 BrainPower integrates with your current and future OOB management systems and allows **next-generation SD-WAN** based management network. 
-
-BrainPower adds true **hardware level** NFV functionality for your private cloud (or *servers* as we call it 20 years ago), making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
 
 BrainPower enables seamless transition of your legacy network architecture into a more modern, **hybrid** cloud architecture, bringing new possibilities for the smallest number of servers.
 
