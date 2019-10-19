@@ -75,3 +75,4 @@ The following people provided assistance and help during the making of this prod
 
 * [Wencey Wang](https://github.com/WenceyWang)
 * [LTY](https://github.com/lty1993)
+* [Jeremy Wu](https://github.com/jemerywudev)
