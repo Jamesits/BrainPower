@@ -71,8 +71,11 @@ TBD.
 
 The PCI express board shape is from [x1 Desktop / Server Rec. Length Card](https://designcontent.live.altium.com/TemplateDesigns/PCI%20Express#TemplateDesignDetail/PDE-0001-00054) and converted with [altium2kicad](https://github.com/thesourcerer8/altium2kicad).
 
+The board's name and the fonts came from [NOMA - Brain Power](https://www.youtube.com/watch?v=h-mUGj41hWA) by Martin.
+
 The following people provided assistance and help during the making of this product:
 
 * [Wencey Wang](https://github.com/WenceyWang)
 * [LTY](https://github.com/lty1993)
+* [Star Brilliant](https://github.com/m13253)
 * [Jeremy Wu](https://github.com/jemerywudev)
