@@ -12,6 +12,12 @@ BrainPower adds true **hardware level** NFV functionality for your private cloud
 
 BrainPower enables seamless transition of your legacy network architecture into a more modern, **hybrid** cloud architecture, bringing new possibilities for the smallest number of servers.
 
+## Rendered Graphics
+
+Note: this is a rendered version of BrainPower v0.2 beta (https://github.com/Jamesits/BrainPower/commit/1534756f81d0aac4159775ea0ed6522c7cd4834d) and is subject to change. It does not represent the final product.
+
+![](misc/rendered_graphics/front.png)
+
 ## Compatibility
 
 ### DC powering options
@@ -29,7 +35,7 @@ It is compatible with the following MikroTik routers:
 * RB760iGS
 * hAP lite
 * hAP AC lite
-* hAP AC²
+* hAP ACÂ²
 
 **RB450 Series**
 
@@ -40,11 +46,17 @@ It is compatible with the following MikroTik routers:
 
 ## Production Guide
 
-### PCI express I/O Bracket
+### Ordering
 
-TBD.
+For stable releases, you can go to [releases](https://github.com/Jamesits/BrainPower/releases) to download an gerber files archive. Most PCB manufacture sites accept this format.
+
+For development releases, you can use the open-source [KiCAD](http://www.kicad-pcb.org/) to open the project file located in the `BrainPower` sub-folder and plot the gerber files.
 
 ### Notes when ordering PCB
 
 * PCB thickness: 1.6mm
-* 45° chamfered border for gold fingers
+* 45Â° chamfered border for gold fingers
+
+### PCI express I/O Bracket
+
+TBD.
