@@ -50,7 +50,7 @@ It is compatible with the following MikroTik routers:
 
 For stable releases, you can go to [releases](https://github.com/Jamesits/BrainPower/releases) to download an gerber files archive. Most PCB manufacture sites accept this format.
 
-For development releases, you can use the open-source [KiCAD](http://www.kicad-pcb.org/) to open the project file located in the `BrainPower` sub-folder and plot the gerber files.
+For development version, you can use the open-source [KiCAD](http://www.kicad-pcb.org/) to open the project file located in the `BrainPower` sub-folder and plot the gerber files.
 
 ### Notes when ordering PCB
 
@@ -60,3 +60,12 @@ For development releases, you can use the open-source [KiCAD](http://www.kicad-p
 ### PCI express I/O Bracket
 
 TBD.
+
+## Acknowledgement
+
+The PCI express board shape is from [x1 Desktop / Server Rec. Length Card](https://designcontent.live.altium.com/TemplateDesigns/PCI%20Express#TemplateDesignDetail/PDE-0001-00054) and converted with [altium2kicad](https://github.com/thesourcerer8/altium2kicad).
+
+The following people provided assistance and help during the making of this product:
+
+* [Wencey Wang](https://github.com/WenceyWang)
+* [LTY](https://github.com/lty1993)
