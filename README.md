@@ -1,6 +1,6 @@
 # BrainPower
 
-PCI express x1 (full-height, half-length) socket to 12V DC adapter with MikroTik router mounting holes.
+PCI express x1 (full-height, half-length) socket to 12V DC adapter with specific MikroTik router mounting holes.
 
 ## Shit Advertisement
 
@@ -10,7 +10,7 @@ BrainPower brings the only **hardware-level network redundancy option** on the m
 
 BrainPower integrates with your current and future OOB management systems and allows **next-generation SD-WAN** based management network. 
 
-BrainPower enables seamless transition of your legacy network architecture into a more modern, **hybrid** cloud architecture, bringing new possibilities for the smallest number of servers.
+BrainPower enables seamless transition of your legacy network architecture into a more modern, **hybrid cloud architecture**, bringing new possibilities for the smallest number of enclosures.
 
 ## Rendered Graphics
 
@@ -56,6 +56,12 @@ For development version, you can use the open-source [KiCAD](http://www.kicad-pc
 
 * PCB thickness: 1.6mm
 * 45° chamfered border for gold fingers
+
+### Assembling
+
+Mounting holes for the router are ⌀3.7mm holes. Mount the router on the front side of the PCB (the side without the "BrainPower" characters) to comply with PCI express standard; mounting backwards also works with some caveats.
+
+The PCI express I/O bracket mounting holes is of the same size and position as in [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285).
 
 ### PCI express I/O Bracket
 
