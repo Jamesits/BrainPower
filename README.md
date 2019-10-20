@@ -4,7 +4,7 @@ PCI express x1 (full-height, half-length) socket to 12V DC adapter with specific
 
 ## Shit Advertisement
 
-BrainPower adds true **hardware level NFV functionality** for your private cloud (or *servers* as we call it 20 years ago), making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
+BrainPower adds true **hardware-level NFV functionality** for your private cloud (or *servers* as we call it 20 years ago), making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
 
 BrainPower brings the only **hardware-level network redundancy option** on the market for single server deployment as long as your enclosure is large enough. 
 
@@ -16,7 +16,7 @@ BrainPower enables seamless transition of your legacy network architecture into 
 
 Note: this is a rendered version of [BrainPower v0.2 beta](https://github.com/Jamesits/BrainPower/commit/1534756f81d0aac4159775ea0ed6522c7cd4834d) and is subject to change. It does not represent the final product.
 
-![](misc/rendered_graphics/front.png)
+![BrainPower PCB front side rendering](misc/rendered_graphics/front.png)
 
 ## Compatibility
 
@@ -61,11 +61,9 @@ For development version, you can use the open-source [KiCAD](http://www.kicad-pc
 
 Mounting holes for the router are ⌀3.7mm holes, you can use M3 hexagonal column and screws. Mount the router on the B side of the PCB (the side with the "KICK" characters) to comply with PCI express standard; mounting backwards also works with some caveats (reads: we never tested it).
 
-The PCI express I/O bracket mounting holes is of the same size and position as in [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285).
-
 ### PCI express I/O Bracket
 
-TBD.
+The PCI express I/O bracket mounting holes is of the same size and position as in [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285).
 
 ## Acknowledgement
 
