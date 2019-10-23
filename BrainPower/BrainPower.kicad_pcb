@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 43)
+    (drawings 48)
     (tracks 47)
     (zones 0)
     (modules 10)
@@ -1089,6 +1089,17 @@
     (pad A17 smd rect (at 8.5 0) (size 0.7 4.2) (layers B.Cu B.Paste B.Mask))
   )
 
+  (gr_arc (start 175.6 130.8) (end 180.3 128.1) (angle -55.88761251) (layer F.SilkS) (width 0.15))
+  (gr_circle (center 180.9 130.9) (end 182.5 132.5) (layer F.SilkS) (width 0.15))
+  (gr_text ^ (at 180.9 132.8) (layer F.SilkS) (tstamp 5DB04AE6)
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (gr_text ^ (at 180.9 129.1 180) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (gr_text "[Emergency Only]\nCut the trace to activate the firewall!" (at 117.5 123.8) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.25)) (justify left))
+  )
   (gr_text "BrainPower Version 0.2\nhttps://github.com/Jamesits/BrainPower" (at 83 67 90) (layer B.SilkS) (tstamp 5DAAA0CE)
     (effects (font (size 2 2) (thickness 0.25)) (justify left mirror))
   )
