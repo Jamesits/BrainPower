@@ -18,6 +18,11 @@ Note: this is a rendered version of [BrainPower v0.2](https://github.com/Jamesit
 
 ![BrainPower PCB front side rendering](misc/rendered_graphics/BrainPower_v0.2_front_rendered.png)
 
+For actual photos, see:
+
+* [Version 0.1](https://github.com/Jamesits/BrainPower/wiki/Version-0.1)
+* [Version 0.2](https://github.com/Jamesits/BrainPower/wiki/Version-0.2)
+
 ## Compatibility
 
 ### DC powering options
