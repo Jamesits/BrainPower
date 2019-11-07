@@ -68,7 +68,7 @@ Mounting holes for the router are ⌀3.7mm holes, you can use M3 hexagonal colum
 
 ### PCI express I/O Bracket
 
-The PCI express I/O bracket mounting holes is of the same size and position as in [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285).
+The PCI express I/O bracket mounting holes are of the same size and position as in *Figure 6-1* and *Figure 6-9*, [*PCI Express® Card Electromechanical Specification Revision 2.0*](https://members.pcisig.com/wg/PCI-SIG/document/download/8285). You can use the brackets from common SAS cards (e.g. LSI SAS9217-8i). 
 
 ## Acknowledgement
 
