@@ -4,9 +4,9 @@ PCI express x1 (full-height, half-length) socket to 12V DC adapter with specific
 
 ## Shit Advertisement
 
-BrainPower adds true **hardware-level NFV functionality** for your private cloud (or *servers* as we call it 20 years ago), making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
+BrainPower adds true **hardware-level NFV functionality** for your ~~servers~~ private cloud, making it more suitable for **IoT**, **edge computing**, **fog computing** and branch office deployment.
 
-BrainPower brings the only **hardware-level network redundancy option** on the market for single server deployment as long as your enclosure is large enough. 
+BrainPower brings the only **hardware-level network redundancy option** on the market for ~~single server deployment~~ economic hyperconverged solution as long as your enclosure is large enough. 
 
 BrainPower integrates with your current and future OOB management systems and allows **next-generation SD-WAN** based management network. 
 
