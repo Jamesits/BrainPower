@@ -72,7 +72,7 @@ The PCI express I/O bracket mounting holes are of the same size and position as 
 
 ## Acknowledgement
 
-The PCI express board shape is from [x1 Desktop / Server Rec. Length Card](https://designcontent.live.altium.com/TemplateDesigns/PCI%20Express#TemplateDesignDetail/PDE-0001-00054) and converted with [altium2kicad](https://github.com/thesourcerer8/altium2kicad).
+The PCI express board shape is from [x1 Desktop / Server Rec. Length Card](https://designcontent.live.altium.com/TemplateDesigns/PCI%20Express#TemplateDesignDetail/PDE-0001-00054) and converted with [altium2kicad](https://github.com/thesourcerer8/altium2kicad). Shapes and characters are converted using [svg2shenzhen](https://github.com/badgeek/svg2shenzhen).
 
 The board's name and the fonts came from [NOMA - Brain Power](https://www.youtube.com/watch?v=h-mUGj41hWA) by Martin.
 
